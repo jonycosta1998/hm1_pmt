@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="add_task">add_task</string>
+    <string name="task_description">task_description</string>
+    <string name="task_title">task_title</string>
+    <string name="default_description" />
+    <string name="default_title" />
+    <string-array name="music">
+        <item>song 1</item>
+        <item>song 2</item>
+        <item>song 3</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="item_selected_msg">Item selected message</string>
+    <string name="delete_question">Do you want to delete?</string>
+    <string name="dialog_confirm">Yes</string>
+    <string name="dialog_cancel">No</string>
+    <string name="delete_dialog_tag">dialog1</string>
+    <string name="long_click_msg">Longclick</string>
+    <string name="delete_cancel_msg">DeleteCancelMsg</string>
+    <string name="retry_msg">RetryMsg</string>
+    <string name="default_name">John</string>
+    <string name="default_surname">Cena</string>
+    <string name="default_birthday">01/06/1990</string>
+    <string name="default_phonenumber">936876567</string>
+    <string name="add">ADD</string>
+    <string name="desbirthday">Birthday:</string>
+    <string name="desphonenumber">Phone Number:</string>
+    <string name="error_msg">Error creating contact! CHECK INPUTS</string>
+</resources>
